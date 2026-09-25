@@ -18,15 +18,6 @@ The project was developed collaboratively, with the 10 pages distributed among 5
 
 The website contains **10 pages**, divided among **5 team members**, with each member responsible for a specific group of pages.
 
-### Pages I Developed
-
-I was responsible for developing the following pages:
-
-* **Home / Index** — Main landing page providing an overview of the organization and access to the main sections of the website.
-* **Governance** — Page presenting information related to the organization's governance.
-* **Solidarity** — Page presenting the organization's solidarity-related initiatives and information.
-
-
 ## Team Collaboration
 
 This was a collaborative frontend project involving **5 team members**.
